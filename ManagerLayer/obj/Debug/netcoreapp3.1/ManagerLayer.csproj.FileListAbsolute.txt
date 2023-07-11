@@ -1,0 +1,15 @@
+F:\CFP PROJECT\ManagerLayer\bin\Debug\netcoreapp3.1\ManagerLayer.deps.json
+F:\CFP PROJECT\ManagerLayer\bin\Debug\netcoreapp3.1\ManagerLayer.dll
+F:\CFP PROJECT\ManagerLayer\bin\Debug\netcoreapp3.1\ManagerLayer.pdb
+F:\CFP PROJECT\ManagerLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+F:\CFP PROJECT\ManagerLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+F:\CFP PROJECT\ManagerLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+F:\CFP PROJECT\ManagerLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+F:\CFP PROJECT\ManagerLayer\obj\Debug\netcoreapp3.1\ManagerLayer.csproj.AssemblyReference.cache
+F:\CFP PROJECT\ManagerLayer\obj\Debug\netcoreapp3.1\ManagerLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\CFP PROJECT\ManagerLayer\obj\Debug\netcoreapp3.1\ManagerLayer.AssemblyInfoInputs.cache
+F:\CFP PROJECT\ManagerLayer\obj\Debug\netcoreapp3.1\ManagerLayer.AssemblyInfo.cs
+F:\CFP PROJECT\ManagerLayer\obj\Debug\netcoreapp3.1\ManagerLayer.csproj.CoreCompileInputs.cache
+F:\CFP PROJECT\ManagerLayer\obj\Debug\netcoreapp3.1\ManagerLayer.csproj.CopyComplete
+F:\CFP PROJECT\ManagerLayer\obj\Debug\netcoreapp3.1\ManagerLayer.dll
+F:\CFP PROJECT\ManagerLayer\obj\Debug\netcoreapp3.1\ManagerLayer.pdb

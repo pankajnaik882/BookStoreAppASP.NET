@@ -1,0 +1,13 @@
+F:\CFP PROJECT\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.deps.json
+F:\CFP PROJECT\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+F:\CFP PROJECT\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+F:\CFP PROJECT\RepositoryLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+F:\CFP PROJECT\RepositoryLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+F:\CFP PROJECT\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.AssemblyReference.cache
+F:\CFP PROJECT\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\CFP PROJECT\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfoInputs.cache
+F:\CFP PROJECT\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfo.cs
+F:\CFP PROJECT\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CoreCompileInputs.cache
+F:\CFP PROJECT\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CopyComplete
+F:\CFP PROJECT\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.dll
+F:\CFP PROJECT\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.pdb

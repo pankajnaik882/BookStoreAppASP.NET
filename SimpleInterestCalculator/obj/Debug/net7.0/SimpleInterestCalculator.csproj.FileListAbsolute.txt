@@ -1,0 +1,15 @@
+F:\CFP PROJECT\SimpleInterestCalculator\bin\Debug\net7.0\SimpleInterestCalculator.exe
+F:\CFP PROJECT\SimpleInterestCalculator\bin\Debug\net7.0\SimpleInterestCalculator.deps.json
+F:\CFP PROJECT\SimpleInterestCalculator\bin\Debug\net7.0\SimpleInterestCalculator.runtimeconfig.json
+F:\CFP PROJECT\SimpleInterestCalculator\bin\Debug\net7.0\SimpleInterestCalculator.dll
+F:\CFP PROJECT\SimpleInterestCalculator\bin\Debug\net7.0\SimpleInterestCalculator.pdb
+F:\CFP PROJECT\SimpleInterestCalculator\obj\Debug\net7.0\SimpleInterestCalculator.csproj.AssemblyReference.cache
+F:\CFP PROJECT\SimpleInterestCalculator\obj\Debug\net7.0\SimpleInterestCalculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\CFP PROJECT\SimpleInterestCalculator\obj\Debug\net7.0\SimpleInterestCalculator.AssemblyInfoInputs.cache
+F:\CFP PROJECT\SimpleInterestCalculator\obj\Debug\net7.0\SimpleInterestCalculator.AssemblyInfo.cs
+F:\CFP PROJECT\SimpleInterestCalculator\obj\Debug\net7.0\SimpleInterestCalculator.csproj.CoreCompileInputs.cache
+F:\CFP PROJECT\SimpleInterestCalculator\obj\Debug\net7.0\SimpleInterestCalculator.dll
+F:\CFP PROJECT\SimpleInterestCalculator\obj\Debug\net7.0\refint\SimpleInterestCalculator.dll
+F:\CFP PROJECT\SimpleInterestCalculator\obj\Debug\net7.0\SimpleInterestCalculator.pdb
+F:\CFP PROJECT\SimpleInterestCalculator\obj\Debug\net7.0\SimpleInterestCalculator.genruntimeconfig.cache
+F:\CFP PROJECT\SimpleInterestCalculator\obj\Debug\net7.0\ref\SimpleInterestCalculator.dll
