@@ -74,6 +74,14 @@ namespace BookStoreApp
 
             services.AddTransient<IAddressRepository , AddressRepository>();
 
+            services.AddTransient<IFeedbackManager, FeedbackManager>();
+
+            services.AddTransient<IFeedbackRepository, FeedbackRepository>();
+
+            services.AddTransient<IOrderManager, OrderManager>();
+
+            services.AddTransient<IOrderRepository, OrderRepository>();
+
 
             ConfigureSwagger(services);
 
@@ -109,7 +117,7 @@ namespace BookStoreApp
         {
             services.AddSwaggerGen(option =>
             {
-                option.SwaggerDoc("v1", new OpenApiInfo { Title = "FundooNotes API", Version = "v1" });
+                option.SwaggerDoc("v1", new OpenApiInfo { Title = "BookStore API", Version = "v1" });
 
                 var securitySchema = new OpenApiSecurityScheme
                 {
